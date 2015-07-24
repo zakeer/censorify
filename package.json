@@ -4,6 +4,14 @@
 	"version" : "0.0.1",
 	"description" : "Censor Words out of text",
 	"main" : "censorify",
+	"repository": {
+		"type": "git",
+		"url" : "https://github.com/zakeer/censorify.git"
+	},
+	"keywords" : [
+		"censor",
+		"words"
+	],
 	"depedencies" : {},
 	"engine" : {
 		"node": "*"
