@@ -1,0 +1,11 @@
+{
+	"author": "Syed Zakeer Hussain",
+	"name" : "censorify",
+	"version" : "0.0.1",
+	"description" : "Censor Words out of text",
+	"main" : "censorify",
+	"depedencies" : {},
+	"engine" : {
+		"node": "*"
+	}
+}
